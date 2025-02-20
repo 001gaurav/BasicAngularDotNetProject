@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1CC4D7-E4F6-4649-99C8-89BD07FC3018}|Contactly\\Contactly.csproj|e:\\github\\cardapiwithangular.net\\api\\contactly\\contactly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1CC4D7-E4F6-4649-99C8-89BD07FC3018}|Contactly\\Contactly.csproj|solutionrelative:contactly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1CC4D7-E4F6-4649-99C8-89BD07FC3018}|Contactly\\Contactly.csproj|e:\\github\\cardapiwithangular.net\\api\\contactly\\contactly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1CC4D7-E4F6-4649-99C8-89BD07FC3018}|Contactly\\Contactly.csproj|solutionrelative:contactly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1CC4D7-E4F6-4649-99C8-89BD07FC3018}|Contactly\\Contactly.csproj|e:\\github\\cardapiwithangular.net\\api\\contactly\\contactly\\models\\domain\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1CC4D7-E4F6-4649-99C8-89BD07FC3018}|Contactly\\Contactly.csproj|solutionrelative:contactly\\models\\domain\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1CC4D7-E4F6-4649-99C8-89BD07FC3018}|Contactly\\Contactly.csproj|e:\\github\\cardapiwithangular.net\\api\\contactly\\contactly\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1CC4D7-E4F6-4649-99C8-89BD07FC3018}|Contactly\\Contactly.csproj|solutionrelative:contactly\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContactRequestDTO.cs",
+              "DocumentMoniker": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\Contactly\\Models\\Domain\\AddContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "Contactly\\Models\\Domain\\AddContactRequestDTO.cs",
+              "ToolTip": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\Contactly\\Models\\Domain\\AddContactRequestDTO.cs",
+              "RelativeToolTip": "Contactly\\Models\\Domain\\AddContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:50:27.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Contactly\\Controllers\\ContactsController.cs",
+              "ToolTip": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Contactly\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:30:44.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\Contactly\\Program.cs",
+              "RelativeDocumentMoniker": "Contactly\\Program.cs",
+              "ToolTip": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\Contactly\\Program.cs",
+              "RelativeToolTip": "Contactly\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:28:01.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactlyDbContext.cs",
+              "DocumentMoniker": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\Contactly\\Data\\ContactlyDbContext.cs",
+              "RelativeDocumentMoniker": "Contactly\\Data\\ContactlyDbContext.cs",
+              "ToolTip": "E:\\GitHub\\CardApiWithAngular.Net\\Api\\Contactly\\Contactly\\Data\\ContactlyDbContext.cs",
+              "RelativeToolTip": "Contactly\\Data\\ContactlyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:25:20.619Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 946,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
